@@ -3,7 +3,7 @@
 
 .tituloP img {
   position: absolute;
-  height: 35px;
+  height: 50px;
   left:315px;
   margin-top: 40px;     
       color: white;
@@ -17,8 +17,8 @@
  height: 35px;
  font-size: 18px;
  position: absolute;
-  left:360px;
-  margin-top: 45px;
+  left:380px;
+  margin-top: 60px;
 }
 
 .selectores h1{
