@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@358&family=Quicksand:wght@300..700&display=swap');
+
+.tituloP img {
+  position: absolute;
+  height: 35px;
+  left:315px;
+  margin-top: 40px;     
+      color: white;
+      border: none;
+      cursor: pointer;
+      text-decoration: none;
+}
+
+.tituloP h1 {
+    font-family: "Oswald", sans-serif;
+ height: 35px;
+ font-size: 18px;
+ position: absolute;
+  left:360px;
+  margin-top: 45px;
+}
+
+.selectores h1{
+font-family: "Montserrat", sans-serif;
+font-size: 15px;
+position: absolute;
+right: 720px;
+margin-top: 55px;
+border:none;
+cursor: pointer;
+color: rgba(0,0,0,0.7);
+}
+
+.selectores h2{
+  font-family: "Montserrat", sans-serif;
+font-size: 15px;
+position: absolute;
+right: 625px;
+margin-top:55px;
+border:none;
+cursor: pointer;
+color: rgba(0,0,0,0.7);
+}
+
+.selectores h3 {
+  font-family: "Montserrat", sans-serif;
+font-size: 15px;
+position: absolute;
+right: 500px;
+margin-top:55px;
+border:none;
+cursor: pointer;
+color: rgba(0,0,0,0.7);
+}
+
+.btnsng h1 {
+  position:absolute;
+  margin-top: 40px;
+  right: 315px;
+  padding: 12px 24px;
+  font-family: "Montserrat",sans-serif;
+  font-size: 20px;
+  background-color: #007BFF;
+  color: white;
+  border-radius: 16px;
+  cursor:pointer;
+}
+
+
+.cont h1{
+  position: absolute;
+left: 400px;
+margin-top: 450px;
+font-size: 40px;
+font-family: "Bebas Neue", sans-serif;
+}
+.cont p {
+  position: absolute;
+  left: 400px;
+  margin-top: 580px;
+  font-size: 15px;
+   max-width: 500px;
+   font-family: "Bebas Neue", sans-serif;
+   color:rgba(0,0,0,0.5);
+  line-height: 30px;
+}
+.persona img {
+  position :absolute;
+  height: 600px;
+  right: 315px;
+  margin-top:300px ;
+}
+.gt {
+  position:absolute;
+  margin-top: 680px;
+  left:400px;
+  padding: 12px 24px;
+  font-family: "Montserrat",sans-serif;
+  font-size: 6px;
+  background-color: #007BFF;
+  color: white;
+  border-radius: 16px;
+  cursor:pointer;
+}
+
+
